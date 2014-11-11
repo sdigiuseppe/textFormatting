@@ -6,32 +6,13 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 <style>
-
 #tabContainer {
-width: 30%;
 
-}
-
-
-#tabContainer a {
-display: inline-block;
-width: 22%;
-color: yellow;
-background-color:darkblue;
-text-decoration: none;
-border-top-left-radius: 3em 3em;
-border-top-right-radius: 3em 3em;
-margin-left: .8em;
-padding-top: .7em;
-padding-right: .3em;
-padding-left: .5em;
 }
 
 #tabContainer a:hover {
-background-color: black;
+
 }
-
-
 </style>
 </head>
 <body>
