@@ -7,21 +7,6 @@
 <link rel="stylesheet" href="style.css">
 <style>
 
-#essay {
-margin: 2% 15%;
-}
-
-#worksCited {
-margin: 2% 17%;
-text-indent: -2em;
-}
-
-#essay p {
-margin: 0%;
-text-indent: 2em;
-line-height: 2em;
-}
-
 </style>
 </head>
 <body>
