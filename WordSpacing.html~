@@ -7,29 +7,6 @@
 <link rel="stylesheet" href="style.css">
 <style>
 
-#topLine {
-
-font-size: 8em;
-word-spacing:.5em;
-margin-left: 5%;
-}
-
-#secondLine {
-
-font-size: 6em;
-word-spacing: .5em;
-margin-left: 5%;
-}
-
-#thirdLine {
-
-font-size: 4em;
-word-spacing: .5em;
-margin-left: 5%;
-}	
-
-
-
 </style>
 </head>
 <body>
